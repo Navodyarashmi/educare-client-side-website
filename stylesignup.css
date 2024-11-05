@@ -1,0 +1,42 @@
+/* signup */
+body {
+    background: linear-gradient(to right, #5fdfff, #fafe7b);
+    color: #333;
+}
+
+.card {
+    border-radius: 15px;
+    overflow: hidden;
+    background: #fff;
+}
+
+.card-body {
+    padding: 2rem;
+}
+
+.card-title {
+    font-size: 1.5rem;
+    color: #333;
+}
+
+.form-control {
+    border-radius: 25px;
+    border: 1px solid #ddd;
+    padding: 0.75rem 1.25rem;
+}
+
+.btn-primary {
+    background-color: #5f8cff;
+    border: none;
+    border-radius: 25px;
+    padding: 0.75rem;
+}
+
+.btn-primary:hover {
+    background-color: #2b2bec;
+}
+
+.btn-block {
+    display: block;
+    width: 100%;
+}
