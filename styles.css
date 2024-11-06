@@ -1,0 +1,36 @@
+body {
+    background: linear-gradient(to right, #e3f2fd, #bbdefb);
+}
+
+.card {
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 2rem;
+}
+
+h3 {
+    font-family: 'Arial', sans-serif;
+    color: #0277bd;
+}
+
+.btn-primary {
+    background: #0288d1;
+    border: none;
+    border-radius: 25px;
+    padding: 12px 20px;
+    font-size: 16px;
+}
+
+.btn-primary:hover {
+    background: #0277bd;
+}
+
+a {
+    color: #0288d1;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
